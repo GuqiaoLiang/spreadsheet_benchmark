@@ -224,7 +224,7 @@
             },
             {
                 "role": "assistant",
-                "content": "Should I normalise the features before fitting (to compare relative importance) or use raw values so coefficients are directly interpretable as dollar impact per unit?"
+                "content": "Should I normalise the features before fitting (to compare relative importance) or use raw values so coefficients represent actual business impact?"
             },
             {
                 "role": "user",
@@ -603,7 +603,7 @@
             },
             {
                 "role": "assistant",
-                "content": "Asia dominates 2020 solar production. All continents show exceptional growth from the 2005 baseline due to the global solar expansion. Bar chart and summary table generated."
+                "content": "Asia dominates 2020 solar production. All continents show exceptional growth from the 2005 baseline. Bar chart and summary table generated."
             }
         ]
     },
